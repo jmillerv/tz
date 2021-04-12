@@ -1,4 +1,4 @@
-[![Go Report Card](https://goreportcard.com/badge/github.com/jmillerv/tz)](https://goreportcard.com/report/github.com/jmillerv/tz)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/11c6a0474c0f4ca5b151fd0de684d89c)](https://www.codacy.com/gh/jmillerv/tz/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jmillerv/tz&amp;utm_campaign=Badge_Grade) [![Go Report Card](https://goreportcard.com/badge/github.com/jmillerv/tz)](https://goreportcard.com/report/github.com/jmillerv/tz)
 # tz
 
 A command line tool for retrieving time across time zones.
