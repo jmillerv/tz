@@ -3,5 +3,5 @@
 
 A command line tool for retrieving time across time zones.
 
-# Roadmap
+## Roadmap
 - [ ] Fuzzy Time Zone conversion -- right not there's a pretty glaring limitation of needing to know the exact name of timezone.
